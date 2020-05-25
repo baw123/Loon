@@ -25,6 +25,6 @@ $httpClient.get(weaapi, function(error, response, data){
 [Script]
 
 # 在每天 8:00-20:00 整点预报天气
-cron "0 8-20 * * *" script-path=https://raw.githubusercontent.com/ydzydzydz/Rules/master/js/weather.js
+cron "0 8-20 * * *" script-path=https://raw.githubusercontent.com/baw123/Loon/master/weather.js
 
 *****************************************************************/
