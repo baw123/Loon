@@ -2,3 +2,4 @@
 🎧𝐌𝐮𝐬𝐢𝐜𝟐 = http,taron.top,100
 🎧𝐌𝐮𝐬𝐢𝐜𝟑 = http,music.griouges.cn,39000
 🎧𝐌𝐮𝐬𝐢𝐜4 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_vrfn"
+🎧𝐌𝐮𝐬𝐢𝐜5 = http,music.lolico.me,39000
